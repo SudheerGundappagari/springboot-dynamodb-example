@@ -1,3 +1,6 @@
+https://www.youtube.com/watch?v=AK6Rf_yjvI0&list=PLUjbZ3hCMnL-7j5Lof2q5S02KwMTeYRIE
+at 50 min
+
 # springboot-dynamodb-example
 Build CRUD Application using SpringBoot + DynamoDB then Deploy CRUD application to Elastic Beanstalk 
 
